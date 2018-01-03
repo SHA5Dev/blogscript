@@ -1,0 +1,2 @@
+# blogscript
+file .js
